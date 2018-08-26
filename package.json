@@ -1,0 +1,25 @@
+{
+  "name": "manastorm",
+  "version": "1.0.0",
+  "description": "()\u001b[Dversao teste)",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.7.3",
+    "gulp": "^4.0.0",
+    "phaser": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucky-luckyster/manastorm.git"
+  },
+  "author": " (lucky-luckyster)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucky-luckyster/manastorm/issues"
+  },
+  "homepage": "https://github.com/lucky-luckyster/manastorm#readme"
+}
